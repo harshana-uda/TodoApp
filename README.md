@@ -1,6 +1,6 @@
-# ToDo List App
+# TodoApp
 
-A simple and straightforward web-based ToDo list application, created just for fun during my spare time. While it's currently basic, I have exciting plans to add more advanced features and a backend in the future.
+A simple and straightforward web-based TodoApp application, created just for fun during my spare time. While it's currently basic, I have exciting plans to add more advanced features and a backend in the future.
 
 ## Features
 
@@ -8,11 +8,11 @@ A simple and straightforward web-based ToDo list application, created just for f
 
 ## Demo
 
-Check out a working demo of the app on YouTube: [Simple Todo List App](https://youtu.be/UUymtXWic6w?si=NeZtMLf2zBqz5Q77).
+Check out a working demo of the app on YouTube: [Simple TodoApp](https://youtu.be/UUymtXWic6w?si=NeZtMLf2zBqz5Q77).
 
 ### Get Started
 
-Here's how you can quickly get started with the ToDo List App:
+Here's how you can quickly get started with the TodoApp:
 
 1. Clone the repository: `git clone https://github.com/sudayanga/TodoApp.git`
 2. Open `index.html` in your browser.
@@ -20,7 +20,7 @@ Here's how you can quickly get started with the ToDo List App:
 
 ### Feature Plans
 
-My future plans for the ToDo List App include:
+My future plans for the TodoApp include:
 
 - **Task Priority**: Assign priorities to tasks.
 - **Task Categories**: Organize tasks by categories or projects.
@@ -29,7 +29,7 @@ My future plans for the ToDo List App include:
 - **Backend Integration**: Add a backend server to store tasks securely and manage user accounts.
 - **Mobile Compatibility**: Optimize the app for mobile devices.
 
-These features will make the ToDo List App even more powerful and useful in your daily life.
+These features will make the TodoApp List App even more powerful and useful in your daily life.
 
 ### License
 
@@ -38,7 +38,7 @@ This project is licensed under the [Open Devs License](https://github.com/sudaya
 ---
 
 **Author**: Harshana Udayanga
-[Link to Your GitHub Profile](https://github.com/sudayanga)
+[My GitHub Profile](https://github.com/sudayanga)
 This project is open to contributors worldwide, and everyone is welcome to use the web app for any purpose except for illegal use or unethical use.
 
 ---
@@ -51,4 +51,4 @@ In the event that any person or entity misuses the Software, its details, or its
 
 ---
 
-Enjoy using the ToDo List App, and feel free to reach out if you have any questions or suggestions.
+Enjoy using the TodoApp, and feel free to reach out if you have any questions or suggestions.
