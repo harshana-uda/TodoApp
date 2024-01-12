@@ -10,7 +10,7 @@ function insertTask(content) {
     const taskContainer = document.createElement('div');
     taskContainer.className = 'task'
     taskContainer.insertAdjacentHTML(`afterbegin`, `
-        <p>${content}</p>
+        <p>${document.createTextNode(content)}</p>
     `)
     
     taskList.appendChild(taskContainer)
